@@ -1,1 +1,0 @@
-The denoiser program uses the value of k as 20 and hence takes about 5 mins to run for noisy2 and about 2 min for noisy1
