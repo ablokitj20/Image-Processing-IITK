@@ -1,3 +1,4 @@
+"""Code to find the place from the location.png"""
 import numpy as np
 import cv2 as cv
 path = input('Enter Your file name: ')

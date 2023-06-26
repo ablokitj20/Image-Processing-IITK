@@ -1,3 +1,4 @@
+"""Code to find the edge"""
 import cv2
 import numpy as np
 from PIL import Image

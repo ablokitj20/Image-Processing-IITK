@@ -1,3 +1,4 @@
+"""Generating image from Y Cb and Cr"""
 import numpy as np
 import cv2 as cv
 x, y, z = input("").split()

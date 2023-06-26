@@ -1,3 +1,4 @@
+"""Code to enhance the image by increasing the brightness"""
 import cv2
 import numpy as np
 from PIL import Image

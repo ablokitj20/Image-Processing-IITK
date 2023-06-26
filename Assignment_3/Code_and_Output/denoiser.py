@@ -1,3 +1,4 @@
+"""Code to do bilateral filtering"""
 import cv2
 import numpy as np
 path = input("")
