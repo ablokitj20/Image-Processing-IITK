@@ -6,7 +6,7 @@ print("This file converts the given jigsaw image in assignment into the solved i
 
 file_exists = os.path.exists('./jigsaw.jpg')
 if(file_exists):
-    img = cv.imread('./jigsaw.jpg')
+    img = cv.imread('jigsaw.jpg')
 else:
     img = str(input("Enter Directory :"))
     img = cv.imread(img)
